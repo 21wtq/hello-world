@@ -1,1 +1,2 @@
-# Hello World
+$ ./mario
+Height: 8
